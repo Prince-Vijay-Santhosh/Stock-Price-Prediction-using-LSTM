@@ -15,3 +15,5 @@ This project utilizes LSTM (Long Short-Term Memory) neural networks to predict t
 
 ## Output
 ![output_26_0](https://github.com/Prince-Vijay-Santhosh/Stock-Price-Prediction-using-LSTM/assets/95931782/46573ab1-4eae-419d-857e-483ff9472f6f)
+
+For more details, please refer to the Jupyter notebook containing the code implementation.
